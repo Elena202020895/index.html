@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://elena202020895.github.io/index.html//sitemap.xml
